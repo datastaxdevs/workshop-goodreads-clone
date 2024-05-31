@@ -8,7 +8,7 @@
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
 		<version>2.5.2</version>
-		<relativePath />
+		<relativePath/>
 	</parent>
 
 	<groupId>io.javabrains</groupId>
@@ -19,7 +19,7 @@
 
 	<properties>
 		<java.version>11</java.version>
-		<astra-sdk.version>0.3.0</astra-sdk.version>
+		<astra-sdk.version>0.5</astra-sdk.version>
 	</properties>
 
 	<dependencies>
